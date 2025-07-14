@@ -47,7 +47,8 @@ This interactive Power BI dashboard visualizes the performance of countries and 
 
 - **Power BI Desktop**
 - Custom visuals and filters
-- Shape map with custom TopoJSON 
+- Shape map with custom TopoJSON
+- Kaggle Dataset : [Paris 2024 Olympic Summer Games](https://www.kaggle.com/datasets/piterfm/paris-2024-olympic-summer-games)
 ---
 
 ## 📂 How to Use
